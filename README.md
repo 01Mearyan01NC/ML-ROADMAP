@@ -30,9 +30,8 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 - Pandas [https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=pHcR_NEbSvbonEiV](#)
 - NumPy [https://youtu.be/vh525RjO6C0?si=DoGzphBSAckOTzxp](#)
 - Matplotlib [https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=WAUPyFbeOJC_BfhR](#)
-- Seaborn:
-- PART-1:[https://youtu.be/UsglokDLa2o?si=cK2mlntk6r_yNnAO](#)
-- PART-2:[https://youtu.be/XezfbWlEVwE?si=hWBAYmm8vvGGPSJE](#)
+- Seaborn:PART-1:[https://youtu.be/UsglokDLa2o?si=cK2mlntk6r_yNnAO](#)
+- Seaborn:PART-2:[https://youtu.be/XezfbWlEVwE?si=hWBAYmm8vvGGPSJE](#)
 
 ## Step 5: Exploratory Data Analysis (EDA)
 
