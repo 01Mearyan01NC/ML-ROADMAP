@@ -47,7 +47,8 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 
 - Linear Regression
 - Polynomial Regression
-- [Video Link for Regression Algorithms](#)
+#### Optimization Techniques
+- Ridge and Lasso regression
 
 ### Classification Algorithms
 
