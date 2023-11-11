@@ -4,7 +4,7 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 
 # Step 1: Mathematics and statistics for data science and machine learning
 
--[https://youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l&si=kzGChq2L-6f_mbgu](#)
+-https://youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l&si=kzGChq2L-6f_mbgu
 
 # Step 2: Python Basics
 
