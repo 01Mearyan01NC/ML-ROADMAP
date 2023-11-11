@@ -35,11 +35,11 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 
 ## Step 5: Exploratory Data Analysis (EDA)
 
+# Steps involved in EDA
 - Data Cleaning
-- Univariate and Bivariate Analysis
 - Visualization Techniques
 - Feature Engineering
-- [Video Link for EDA](#)
+- [https://youtu.be/fHFOANOHwh8?si=fjJFOlk4V14G6M73](#)
 
 ## Step 6: Core ML Algorithms
 
