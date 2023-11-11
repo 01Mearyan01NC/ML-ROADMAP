@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning Roadmap repository! This roadmap is designed to guide you through essential topics in machine learning, from foundational concepts to core algorithms. Feel free to follow the steps below and explore the associated resources.
 
-## Step 1: Linear Algebra
+# Step 1: Linear Algebra
 
 - Introduction to Vectors and Matrices
 - Matrix Operations (Addition, Multiplication)
@@ -10,7 +10,7 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 - Applications in Machine Learning
 - [Video Link for Linear Algebra](#)
 
-## Step 2: Statistics
+# Step 2: Statistics
 
 - Descriptive Statistics
 - Probability Distributions
@@ -18,14 +18,14 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 - Hypothesis Testing
 - [Video Link for Statistics](#)
 
-## Step 3: Python Basics
+# Step 3: Python Basics
 
 - Functions and Variables [https://youtu.be/JP7ITIXGpHk?si=2fuvBj90LrstvcR7](#)
 - Conditionals [https://youtu.be/_b6NgY_pMdw?si=Z9JB_jH3pH0Gi0e9](#)
 - Loops [https://youtu.be/-7xg8pGcP6w?si=NJAxz0IB7l_tkPd1](#)
 - Lists, Tuples, and Dictionaries [https://youtu.be/fXRxHrDhQuI?si=U2z04mp2ddjyjaCV](#)
 
-## Step 4: Python Libraries
+# Step 4: Python Libraries
 
 - Pandas [https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=pHcR_NEbSvbonEiV](#)
 - NumPy [https://youtu.be/vh525RjO6C0?si=DoGzphBSAckOTzxp](#)
@@ -33,15 +33,15 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 - Seaborn:PART-1:[https://youtu.be/UsglokDLa2o?si=cK2mlntk6r_yNnAO](#)
 - Seaborn:PART-2:[https://youtu.be/XezfbWlEVwE?si=hWBAYmm8vvGGPSJE](#)
 
-## Step 5: Exploratory Data Analysis (EDA)
+# Step 5: Exploratory Data Analysis (EDA)
 
-# Steps involved in EDA
+### Steps involved in EDA
 - Data Cleaning
 - Visualization Techniques
 - Feature Engineering
 - [https://youtu.be/fHFOANOHwh8?si=fjJFOlk4V14G6M73](#)
 
-## Step 6: Core ML Algorithms
+# Step 6: Core ML Algorithms
 
 ### Regression Algorithms
 
