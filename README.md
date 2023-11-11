@@ -46,8 +46,8 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 ### Regression Algorithms
 
 - Linear Regression
-  [https://youtu.be/jerPVDaHbEA?si=U4lhTaCqy_mZPptB](#)
-    [https://youtu.be/bRl2IXIjuqE?si=Cr1uNIpfBnf2g0k4](#) 
+  -[https://youtu.be/jerPVDaHbEA?si=U4lhTaCqy_mZPptB](#)
+  -[https://youtu.be/bRl2IXIjuqE?si=Cr1uNIpfBnf2g0k4](#) 
 - Logistic Regression
   [https://youtu.be/_nvQKN8L1ZE?si=NEm6nxI94t5Tjhoe](#)
 - Naive Bayes
