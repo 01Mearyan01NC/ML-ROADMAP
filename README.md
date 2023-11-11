@@ -2,9 +2,9 @@
 
 Welcome to the Machine Learning Roadmap repository! This roadmap is designed to guide you through essential topics in machine learning, from foundational concepts to core algorithms. Feel free to follow the steps below and explore the associated resources.
 
-# Step 1: Linear Algebra
+# Step 1: Mathematics and statistics for data science and machine learning
 
--[Mathematics and statistics for data science and machine learning](#)
+-[https://youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l&si=kzGChq2L-6f_mbgu](#)
 
 # Step 2: Python Basics
 
