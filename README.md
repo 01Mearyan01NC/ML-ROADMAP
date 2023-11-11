@@ -46,18 +46,21 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 ### Regression Algorithms
 
 - Linear Regression
-- Polynomial Regression
-#### Optimization Techniques
-- Ridge and Lasso regression
-
-### Classification Algorithms
-
+  [https://youtu.be/jerPVDaHbEA?si=U4lhTaCqy_mZPptB](#)
+  [https://youtu.be/bRl2IXIjuqE?si=Cr1uNIpfBnf2g0k4](#) 
 - Logistic Regression
+  [https://youtu.be/_nvQKN8L1ZE?si=NEm6nxI94t5Tjhoe](#)
 - Naive Bayes
+  [https://youtu.be/7zpEuCTcdKk?si=pM0lR5IPx-Saq5ZV](#)
 - Decision Tree
+  [https://youtu.be/ynTCUngbFHA?si=PdZKfN_Y-VT3F-KA](#)
 - Random Forest
+  [https://youtu.be/WjLjjx8wSz0?si=6hJOHDFdKp3elLPR](#)
 - K-Nearest Neighbors (KNN)
-- [Video Link for Classification Algorithms](#)
+  [https://youtu.be/gU6KTNbk0hk?si=XA7ByLocFzjC64Ju](#)
+
+### Optimization Techniques
+- Ridge and Lasso regression [https://youtu.be/KapPZCurdsQ?si=8MsNTfqoRCxJW1oJ](#)
 
 ## Additional Resources
 
