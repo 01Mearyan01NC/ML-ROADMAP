@@ -31,20 +31,22 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
 
 # 5: Core ML Algorithms
 
-### Regression Algorithms
-
 - Linear Regression
   https://youtu.be/jerPVDaHbEA?si=U4lhTaCqy_mZPptB
+  https://www.youtube.com/watch?v=bRl2IXIjuqE&pp=ygUXa3Jpc2ggbmFpayBNTCBwcmFjdGljYWw%3D
 - Logistic Regression
   https://youtu.be/_nvQKN8L1ZE?si=NEm6nxI94t5Tjhoe
+  https://www.youtube.com/watch?v=n40hS9tQmcY&pp=ygUXa3Jpc2ggbmFpayBNTCBwcmFjdGljYWw%3D
 - Naive Bayes
   https://youtu.be/7zpEuCTcdKk?si=pM0lR5IPx-Saq5ZV
+  https://youtu.be/VIj6xS937E4?si=Gz9AU6eSccbn5juj
 - Decision Tree
-  https://youtu.be/ynTCUngbFHA?si=PdZKfN_Y-VT3F-KA
+  https://youtube.com/playlist?list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU&si=ZdxifvTmFPQYXh4_
 - Random Forest
   https://youtu.be/WjLjjx8wSz0?si=6hJOHDFdKp3elLPR
 - K-Nearest Neighbors (KNN)
   https://youtu.be/gU6KTNbk0hk?si=XA7ByLocFzjC64Ju
+
 
 ### Optimization Techniques
 - Ridge and Lasso regression https://youtu.be/KapPZCurdsQ?si=8MsNTfqoRCxJW1oJ
