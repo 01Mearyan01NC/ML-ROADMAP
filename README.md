@@ -38,8 +38,8 @@ Welcome to the Machine Learning Roadmap repository! This roadmap is designed to 
   https://youtu.be/_nvQKN8L1ZE?si=NEm6nxI94t5Tjhoe
   https://www.youtube.com/watch?v=n40hS9tQmcY&pp=ygUXa3Jpc2ggbmFpayBNTCBwcmFjdGljYWw%3D
 - Naive Bayes
-  https://youtu.be/7zpEuCTcdKk?si=pM0lR5IPx-Saq5ZV
-  https://youtu.be/VIj6xS937E4?si=Gz9AU6eSccbn5juj
+  - https://youtu.be/7zpEuCTcdKk?si=pM0lR5IPx-Saq5ZV
+  - https://youtu.be/VIj6xS937E4?si=Gz9AU6eSccbn5juj
 - Decision Tree
   https://youtube.com/playlist?list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU&si=ZdxifvTmFPQYXh4_
 - Random Forest
